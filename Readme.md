@@ -1,9 +1,11 @@
    > Em desenvolvimento
 
-    [] Formulário (HTML)
+    [] API Rest 
+      - Criar autenticação
+
     [] CRUD = Criar, Ler, Editar, Deletar
     [] API Google Sheets 
-    [] API Restfull
+    [] Formulário (HTML)
     [] DOM (JS)
     [] Estilização (Css)
     [] Download da Planilha
